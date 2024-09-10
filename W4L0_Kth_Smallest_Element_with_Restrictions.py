@@ -14,7 +14,7 @@ A single integer representing the kth smallest element.
 
 Sample:
 6
-7 10 4 3 20 15
+[7,10,4,3,20,15]
 3
 
 Output:
